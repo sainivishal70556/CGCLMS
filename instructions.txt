@@ -35,6 +35,9 @@ Step 10 : Open chrome or other broswer and type : localhost:5173 and project run
 
 
 ADMIN Credentails : 
+BEFORE LOGIN TO THE WEBSITE SAVE THIS DOCUMENT IN THE DATABASE COLLECTION.
+
+{"_id":{"$oid":"671941bc2a9cd2bff4aeb8f2"},"email":"admin@gmail.com","fatherName":"Rakesh Kumar Saini","role":"Admin","password":"$2b$10$HmytXGhI64nyQnvKpB/xCutFxu11KHd/W29b50siqtxeH.9UaaUhO","accountStatus":"Active","__v":{"$numberInt":"0"},"name":"Vishal Saini","imagePath":"uploads/1700306417988-465995069.png","updatedAt":{"$date":{"$numberLong":"1700306418692"}}}
 
 
 Email : admin@gmail.com
